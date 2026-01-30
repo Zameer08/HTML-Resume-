@@ -12,7 +12,5 @@ Simply open `index.html` in any modern browser.
 - Clean spacing & alignment
 - Semantic HTML for accessibility
 - Resume-friendly typography
-
-## Screenshots
-
+- 
 ## Live Demo
