@@ -14,3 +14,4 @@ Simply open `index.html` in any modern browser.
 - Resume-friendly typography
 - 
 ## Live Demo
+https://zameer08.github.io/HTML-Resume-
